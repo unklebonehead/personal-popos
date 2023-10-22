@@ -1,0 +1,12 @@
+2023/10/21-19:03:15.900 26ec Reusing MANIFEST /home/unklebonehead/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2023/10/21-19:03:15.900 26ec Recovering log #113
+2023/10/21-19:03:15.905 26ec Reusing old log /home/unklebonehead/.config/Pulsar/IndexedDB/file__0.indexeddb.leveldb/000113.log 
+2023/10/21-19:11:59.682 2884 Level-0 table #118: started
+2023/10/21-19:11:59.705 2884 Level-0 table #118: 1942301 bytes OK
+2023/10/21-19:11:59.707 2884 Delete type=0 #113
+2023/10/21-19:22:03.320 2989 Compacting 1@1 + 1@2 files
+2023/10/21-19:22:03.324 2989 Generated table #119@1: 72 keys, 52825 bytes
+2023/10/21-19:22:03.324 2989 Compacted 1@1 + 1@2 files => 52825 bytes
+2023/10/21-19:22:03.325 2989 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/10/21-19:22:03.325 2989 Delete type=2 #115
+2023/10/21-19:22:03.325 2989 Delete type=2 #118

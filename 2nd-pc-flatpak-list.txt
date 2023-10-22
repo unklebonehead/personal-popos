@@ -1,0 +1,62 @@
+Name                                              Application ID                                                  Version                    Branch                 Installation
+Discord                                           com.discordapp.Discord                                          0.0.32                     stable                 user
+Barrier                                           com.github.debauchee.barrier                                    2.4.0                      stable                 user
+Video Downloader                                  com.github.unrud.VideoDownloader                                0.12.9                     stable                 user
+Extension Manager                                 com.mattjakeman.ExtensionManager                                0.4.2                      stable                 user
+Microsoft Edge                                    com.microsoft.Edge                                              118.0.2088.57-1            stable                 user
+OBS Studio                                        com.obsproject.Studio                                           29.1.3                     stable                 user
+Waveform                                          com.obsproject.Studio.Plugin.waveform                                                      stable                 user
+Shortwave                                         de.haeckerfelix.Shortwave                                       3.2.0                      stable                 user
+Zap                                               fr.romainvigier.zap                                             1.2.3                      stable                 user
+Amberol                                           io.bassi.Amberol                                                0.10.3                     stable                 user
+Soundux                                           io.github.Soundux                                               0.2.8                      stable                 user
+FontFinder                                        io.github.mmstick.FontFinder                                    2.0.0                      stable                 user
+Discover Overlay                                  io.github.trigg.discover_overlay                                0.6.7                      stable                 user
+Mission Center                                    io.missioncenter.MissionCenter                                  0.3.3                      stable                 user
+Syncthing GTK                                     me.kozec.syncthingtk                                            v0.9.4.5                   stable                 user
+Speech Note                                       net.mkiol.SpeechNote                                            4.2.1                      stable                 user
+SonoBus                                           net.sonobus.SonoBus                                             1.6.2                      stable                 user
+Freedesktop Platform                              org.freedesktop.Platform                                        22.08.17                   22.08                  user
+Freedesktop Platform                              org.freedesktop.Platform                                        23.08.3                    23.08                  user
+Mesa                                              org.freedesktop.Platform.GL.default                             21.3.9                     21.08                  user
+Mesa                                              org.freedesktop.Platform.GL.default                             23.1.9                     22.08                  user
+Mesa (Extra)                                      org.freedesktop.Platform.GL.default                             23.1.9                     22.08-extra            user
+Mesa                                              org.freedesktop.Platform.GL.default                             23.2.1                     23.08                  user
+Mesa (Extra)                                      org.freedesktop.Platform.GL.default                             23.2.1                     23.08-extra            user
+Intel                                             org.freedesktop.Platform.VAAPI.Intel                                                       21.08                  user
+Intel                                             org.freedesktop.Platform.VAAPI.Intel                                                       22.08                  user
+Intel                                             org.freedesktop.Platform.VAAPI.Intel                                                       23.08                  user
+ffmpeg-full                                       org.freedesktop.Platform.ffmpeg-full                                                       23.08                  user
+openh264                                          org.freedesktop.Platform.openh264                               2.1.0                      2.0                    user
+openh264                                          org.freedesktop.Platform.openh264                               2.1.0                      2.2.0                  user
+Web                                               org.gnome.Epiphany                                              45.0                       stable                 user
+GNOME Application Platform version 42             org.gnome.Platform                                                                         42                     user
+GNOME Application Platform version 43             org.gnome.Platform                                                                         43                     user
+GNOME Application Platform version 44             org.gnome.Platform                                                                         44                     user
+GNOME Application Platform version 45             org.gnome.Platform                                                                         45                     user
+Rhythmbox                                         org.gnome.Rhythmbox3                                            3.4.7                      stable                 user
+Breeze GTK theme                                  org.gtk.Gtk3theme.Breeze                                        5.27.8                     3.22                   user
+Pop Gtk theme                                     org.gtk.Gtk3theme.Pop-dark                                                                 3.22                   user
+Adwaita theme                                     org.kde.KStyle.Adwaita                                                                     5.15-22.08             user
+Adwaita theme                                     org.kde.KStyle.Adwaita                                                                     6.4                    user
+KDE Application Platform                          org.kde.Platform                                                                           5.15-21.08             user
+KDE Application Platform                          org.kde.Platform                                                                           5.15-22.08             user
+KDE Application Platform                          org.kde.Platform                                                                           6.4                    user
+KDE Application Platform                          org.kde.Platform                                                                           6.5                    user
+QGnomePlatform                                    org.kde.PlatformTheme.QGnomePlatform                                                       5.15-21.08             user
+QGnomePlatform                                    org.kde.PlatformTheme.QGnomePlatform                                                       5.15-22.08             user
+QGnomePlatform                                    org.kde.PlatformTheme.QGnomePlatform                                                       6.4                    user
+QGnomePlatform                                    org.kde.PlatformTheme.QGnomePlatform                                                       6.5                    user
+QtSNI                                             org.kde.PlatformTheme.QtSNI                                                                5.15-21.08             user
+QAdwaitaDecorations                               org.kde.WaylandDecoration.QAdwaitaDecorations                                              5.15-22.08             user
+QAdwaitaDecorations                               org.kde.WaylandDecoration.QAdwaitaDecorations                                              6.5                    user
+QGnomePlatform-decoration                         org.kde.WaylandDecoration.QGnomePlatform-decoration                                        5.15-21.08             user
+QGnomePlatform-decoration                         org.kde.WaylandDecoration.QGnomePlatform-decoration                                        5.15-22.08             user
+QGnomePlatform-decoration                         org.kde.WaylandDecoration.QGnomePlatform-decoration                                        6.4                    user
+QGnomePlatform-decoration                         org.kde.WaylandDecoration.QGnomePlatform-decoration                                        6.5                    user
+Mixxx DJ Software                                 org.mixxx.Mixxx                                                 2.3.5                      stable                 user
+OnionShare                                        org.onionshare.OnionShare                                       2.6                        stable                 user
+PulseAudio Volume Control                         org.pulseaudio.pavucontrol                                      5.0                        stable                 user
+qpwgraph                                          org.rncbc.qpwgraph                                              0.5.3                      stable                 user
+Warpinator                                        org.x.Warpinator                                                1.6.4                      stable                 user
+Carla                                             studio.kx.carla                                                 2.5.7                      stable                 user

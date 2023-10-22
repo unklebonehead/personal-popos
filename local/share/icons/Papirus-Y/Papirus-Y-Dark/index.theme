@@ -1,0 +1,18 @@
+[Icon Theme]
+Name=Papirus-Y
+Comment=Papirus-Y icon theme
+Inherits=Papirus-Dark
+
+Example=folder
+
+# Directory list
+Directories=symbolic/actions
+
+[symbolic/actions]
+Context=Actions
+Size=16
+MinSize=16
+MaxSize=512
+Type=Scalable
+
+

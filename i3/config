@@ -1,0 +1,20 @@
+include $HOME/.config/i3/workspaces.conf
+include $HOME/.config/i3/bar.conf
+set $mod Mod4
+font pango:Source Code Pro Medium 10
+exec_always --no-startup-id xrandr --output DisplayPort-0 --mode 1920x1080 --pos 0x0 --rotate normal --output HDMI-A-0 --primary --mode 1920x1080 --pos 979x1080 --rotate normal --output DVI-D-0 --mode 1920x1080 --pos 1920x0 --rotate normal &
+
+# bar {
+#    i3bar_command /home/unklebonehead/bin/polybar-i3
+# }
+exec_always --no-startup-id ~/.config/i3/autostart.sh
+# Use Mouse+$mod to drag floating windows to their wanted position
+floating_modifier $mod
+#GAPS
+# smart_gaps on
+# smart_borders on
+# move tiling windows via drag & drop by left-clicking into the title bar,
+# or left-clicking anywhere into the window while holding the floating modifier.
+# tiling_drag modifier titlebar
+# Use Mouse+$mod to drag floating windows to their wanted position
+# floating_modifier $mod
